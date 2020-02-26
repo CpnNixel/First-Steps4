@@ -1,0 +1,10 @@
+C:\Users\Nikitocik\source\repos\when the moon-hits your skin\bin\Debug\when the moon-hits your skin.exe.config
+C:\Users\Nikitocik\source\repos\when the moon-hits your skin\bin\Debug\when the moon-hits your skin.exe
+C:\Users\Nikitocik\source\repos\when the moon-hits your skin\bin\Debug\when the moon-hits your skin.pdb
+C:\Users\Nikitocik\source\repos\when the moon-hits your skin\obj\Debug\when the moon-hits your skin.csprojAssemblyReference.cache
+C:\Users\Nikitocik\source\repos\when the moon-hits your skin\obj\Debug\when_the_moon_hits_your_skin.Form1.resources
+C:\Users\Nikitocik\source\repos\when the moon-hits your skin\obj\Debug\when_the_moon_hits_your_skin.Properties.Resources.resources
+C:\Users\Nikitocik\source\repos\when the moon-hits your skin\obj\Debug\when the moon-hits your skin.csproj.GenerateResource.cache
+C:\Users\Nikitocik\source\repos\when the moon-hits your skin\obj\Debug\when the moon-hits your skin.csproj.CoreCompileInputs.cache
+C:\Users\Nikitocik\source\repos\when the moon-hits your skin\obj\Debug\when the moon-hits your skin.exe
+C:\Users\Nikitocik\source\repos\when the moon-hits your skin\obj\Debug\when the moon-hits your skin.pdb
